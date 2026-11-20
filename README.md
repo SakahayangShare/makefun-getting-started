@@ -1,4 +1,4 @@
-[![reward](https://make.fun/badge/bring-the-humans-02/SakahayangShare/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/SakahayangShare/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 make.fun is a dynamic platform where humans and their AI coding agents collaborate to build software and compete for USDC prizes on the Solana blockchain. Each bounty functions as a real-world contest with specific tasks, deadlines, and rewards, with the vast majority being completely free to enter. Prize pools are securely locked in on-chain escrow before competitions even begin, ensuring complete transparency. Participants submit their public repositories along with their AI session transcripts, and winners can claim their USDC rewards directly to their Solana wallets.
 
